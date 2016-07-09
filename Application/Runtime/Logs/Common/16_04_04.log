@@ -1,0 +1,1361 @@
+[ 2016-04-04T19:49:04+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:49:04+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:49:04+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:49:04+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:55:12+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:55:12+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:55:12+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:55:12+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000508s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004570s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:55:12+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:56:32+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:56:32+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:56:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:56:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:56:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:08+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:08+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:08+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:08+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:08+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:26+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:26+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:26+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:26+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:57:26+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:58:11+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:58:11+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:58:11+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:58:11+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:58:11+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:52+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:52+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:52+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:52+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:52+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:54+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:54+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:54+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:54+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T19:59:54+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:00:31+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:00:31+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:00:31+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:00:31+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:01:37+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:01:37+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+Public
+
+[ 2016-04-04T20:01:37+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:01:37+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:19+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:19+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:19+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:19+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:19+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:22+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:22+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:22+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001361s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:22+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:24+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:24+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:04:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:06:44+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:06:44+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:06:44+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:06:44+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:07:53+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000991s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:07:53+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:07:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:07:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:07:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:08:14+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:08:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:08:14+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001375s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:08:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:08:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:11:30+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:11:30+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:11:30+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:11:30+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:11:30+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:12:01+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:12:01+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:12:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:12:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:12:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:07+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:07+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:07+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:07+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Public
+
+
+[ 2016-04-04T20:13:09+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:09+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+
+[ 2016-04-04T20:13:09+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:09+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:10+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:10+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:13:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:14:22+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:14:22+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:14:22+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:14:22+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:14:22+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:15:10+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:15:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:15:10+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:15:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:15:10+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:17:32+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:17:32+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:17:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:17:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:17:32+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:18:25+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:18:25+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:18:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:18:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:18:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:19:42+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:19:42+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:19:42+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:19:42+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:19:42+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:00+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:00+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:00+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:00+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:00+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:14+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:14+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:20:14+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:22:53+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:22:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:22:53+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:22:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:22:53+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:27:13+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:27:13+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:27:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:27:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:27:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:28:58+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:28:58+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:28:58+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:28:58+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:28:58+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:01+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:01+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:59+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:59+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:59+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:59+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:29:59+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:30:01+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:30:01+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:30:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:30:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:30:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:03+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:03+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:03+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:03+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:03+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:07+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:07+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:07+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:07+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:07+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:15+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:15+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:15+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:15+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:36:15+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:40:25+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:40:25+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:40:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:40:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:40:25+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:41:02+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:41:02+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001682s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:41:02+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Public
+
+
+[ 2016-04-04T20:42:24+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:24+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:24+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:28+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:28+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:28+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:28+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:42:28+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:44:39+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:44:39+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:44:39+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:44:39+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:44:39+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:45:16+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:45:16+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:45:16+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:45:16+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:45:16+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:49:13+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:49:13+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:49:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:49:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:49:13+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:56:01+08:00 ] ::1 /paper/Public/html/css/sb-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:56:01+08:00 ] ::1 /paper/Public/html/css/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:56:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris-data.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:56:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/raphael.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-04T20:56:01+08:00 ] ::1 /paper/Public/html/js/plugins/morris/morris.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+

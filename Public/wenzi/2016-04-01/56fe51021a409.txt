@@ -1,0 +1,39 @@
+INCLUDE Irvine32.inc
+INCLUDELIB Irvine32.lib
+INCLUDELIB user32.lib
+INCLUDELIB kernel32.lib
+
+.data
+myString BYTE "color",0
+
+.code
+main PROC
+    mov ecx,20
+ L1:
+    mov eax,10
+    call RandomRange
+    
+    cmp eax,2
+    ja L2
+    mov eax,white + ( black * 16 )
+    jmp L4
+ L2:
+    cmp eax,3
+    je L3
+    mov eax,green + ( black * 16 )
+    jmp L4
+  L3:
+    mov eax,blue + ( black * 16)
+  L4:
+    call SetTextColor
+    
+    mov edx,OFFSET myString
+    call WriteString
+    
+    call Crlf
+    
+    loop L1
+    
+    exit
+main ENDP
+END main

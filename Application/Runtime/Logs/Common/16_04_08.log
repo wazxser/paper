@@ -1,0 +1,30 @@
+[ 2016-04-08T20:16:11+08:00 ] ::1 /paper/Public/wenzi5707957d6c43f.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-08T20:16:12+08:00 ] ::1 /paper/Public/wenzi5707957d6c43f.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-08T20:16:12+08:00 ] ::1 /paper/Public/wenzi5707957d6c43f.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-08T20:16:13+08:00 ] ::1 /paper/Public/wenzi5707957d6c43f.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2016-04-08T20:16:43+08:00 ] ::1 /paper/Public/wenzi5707957d6c43f.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+ERR: 无法加载模块:Public
+

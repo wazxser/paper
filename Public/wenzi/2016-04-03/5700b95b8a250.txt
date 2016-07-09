@@ -1,0 +1,28 @@
+INCLUDE Irvine32.inc
+INCLUDELIB Irvine32.lib
+INCLUDELIB user32.lib
+INCLUDELIB kernel32.lib
+
+.data 
+myString BYTE "Change color    ", 0
+
+.code
+main PROC
+    mov ecx, 4
+    mov eax, 1
+    add eax, 240
+L1:
+    call SetTextColor
+    
+    mov edx,OFFSET myString
+    call WriteString
+    
+    add eax,1
+    
+    loop L1
+    
+    mov eax,white + (black * 16)
+    call SetTextColor
+    exit
+main ENDP
+END main

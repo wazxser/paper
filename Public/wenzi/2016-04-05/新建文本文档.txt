@@ -1,0 +1,9 @@
+mov eax,1
+	mov ebx,1
+	mov ecx,47
+    L1: add eax,ebx
+    	mov esi,OFFSET myDouble
+        mov [esi],eax
+        add esi,4
+        cmp 
+        

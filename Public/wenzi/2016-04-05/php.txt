@@ -1,0 +1,103 @@
+在 PHP 中，所有用户定义的函数、类和关键词（例如 if、else、echo 等等）都对大小写不敏感。<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+ECHO "Hello World!<br>";
+echo "Hello World!<br>";
+EcHo "Hello World!<br>";
+?>
+
+</body>
+</html>
+不过在 PHP 中，所有变量都对大小写敏感。
+在下面的例子中，只有第一条语句会显示 $color 变量的值（这是因为 $color、$COLOR 以及 $coLOR 被视作三个不同的变量）：
+实例
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$color="red";
+echo "My car is " . $color . "<br>";
+echo "My house is " . $COLOR . "<br>";
+echo "My boat is " . $coLOR . "<br>";
+?>
+
+</body>
+</html>
+把变量视为存储数据的容器。
+PHP 变量规则：
+变量以 $ 符号开头，其后是变量的名称
+变量名称必须以字母或下划线开头
+变量名称不能以数字开头
+变量名称只能包含字母数字字符和下划线（A-z、0-9 以及 _）
+变量名称对大小写敏感（$y 与 $Y 是两个不同的变量）
+不用标明变量数据类型
+函数之外声明的变量拥有 Global 作用域，只能在函数以外进行访问。
+函数内部声明的变量拥有 LOCAL 作用域，只能在函数内部进行访问。
+可以在不同的函数中创建名称相同的局部变量，因为局部变量只能被在其中创建它的函数识别。
+global 关键词用于访问函数内的全局变量。
+<?php 
+$x = 5985;
+var_dump($x);
+echo "<br>"; 
+$x = -345; // 负数
+var_dump($x);
+echo "<br>"; 
+$x = 0x8C; // 十六进制数
+var_dump($x);
+echo "<br>";
+$x = 047; // 八进制数
+var_dump($x);
+?>
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php 
+$cars=array("Volvo","BMW","SAAB");
+var_dump($cars);
+?>
+
+</body>
+</html>
+array(3) { [0]=> string(5) "Volvo" [1]=> string(3) "BMW" [2]=> string(4) "SAAB" }
+strlen() 函数返回字符串的长度，以字符计。
+strpos() 函数用于检索字符串内指定的字符或文本。
+如果找到匹配，则会返回首个匹配的字符位置。如果未找到匹配，则将返回 FALSE。
+PHP 字符串运算符
+运算符	名称	例子	结果
+.	串接	 $txt1 = "Hello" $txt2 = $txt1 . " world!"	现在 $txt2 包含 "Hello world!"
+.=	串接赋值	 $txt1 = "Hello" $txt1 .= " world!"	现在 $txt1 包含 "Hello world!"
+下例展示了使用字符串运算符的结果：
+实例
+<?php
+$a = "Hello";
+$b = $a . " world!";
+echo $b; // 输出 Hello world!
+
+$x="Hello";
+$x .= " world!";
+echo $x; // 输出 Hello world!
+?>
+在 PHP 中创建数组
+在 PHP 中， array() 函数用于创建数组：
+array();
+在 PHP 中，有三种数组类型：
+索引数组 - 带有数字索引的数组
+关联数组 - 带有指定键的数组
+多维数组 - 包含一个或多个数组的数组
+
+
+ // 数据库表达式
+    protected $comparison      = array('eq'=>'=','neq'=>'!=','gt'=>'>','egt'=>'>=','lt'=>'<','elt'=>'<=','notlike'=>'NOT LIKE','like'=>'LIKE');
+    // 查询表达式
+    protected $selectSql  =     'SELECT%DISTINCT% %FIELDS% FROM %TABLE%%JOIN%%WHERE%%GROUP%%HAVING%%ORDER%%LIMIT%';
+
+
+函数：
+count（） 返回数组中元素的个数
+in_array("", $array) 函数搜索数组中是否存在指定的值。
+substr($whereStr,0,-4)返回字符串的一部分，从0开始，最后剩下四个字符
+current()返回数组中当前元素的值

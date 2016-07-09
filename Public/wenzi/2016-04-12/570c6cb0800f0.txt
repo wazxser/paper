@@ -1,0 +1,69 @@
+<?php 
+require_once('string.func.php');
+
+ function  verifyImage( $type=1,$length=4,$pixel=0,$line=0,$sess_name="verify"){ 
+
+ 	session_start();
+ 	/*定义长度和宽度*/
+$width=80;
+$height=30;
+/* 创建画布*/
+$image=imagecreatetruecolor($width, $height);
+
+/*本函数用来匹配图形的颜色，供其它绘图函数使用。参数 image 表示图形的 handle。参数 red、green、blue 是色彩三原色，其值从 0 至 255....我在此定义黑色和白色*/
+$white=imagecolorallocate($image, 255, 255, 255);
+$black=imagecolorallocate($image,0,0,0);
+
+/*本函数将图片的封闭长方形区域着色。参数 x1、y1 及 x2、y2 分别为矩形对角线的坐标。参数 col 表示欲涂上的颜色*/
+imagefilledrectangle($image, 1, 1, $width-2, $height-2, $white);
+
+/*buildRandomString函数用来生成一个验证码*/
+$chars=buildRandomString($type,$length);
+
+/*将验证码给session以便用来判断用户输入是否正确*/
+$_SESSION[$sess_name]=$chars;
+
+/*定义字体库*/
+$fontfiles=array('msyh.ttf','msyhbd.ttf','simsun.ttc','SIMYOU.TTF','STHUPO.TTF','STKAITI.TTF','STLITI.TTF');
+
+
+/*用循环来将验证码一个一个的写入图片中*/
+for($i=0;$i<$length;$i++)
+{
+	$size=mt_rand(14,18);
+	$angle=mt_rand(-15,15);
+
+	/*验证码的横坐标与纵坐标*/
+	$x=5+$i*$size;
+	$y=mt_rand(20,26);
+
+    $color=imagecolorallocate($image,mt_rand(50,190),mt_rand(50,200),mt_rand(50,90));
+    $fontfile="../font/".$fontfiles[mt_rand(0,count($fontfiles)-1)];
+    $text=substr($chars,$i,1);
+
+    /*本函数将 TTF (TrueType Fonts) 字型文字写入图片*/
+  imagettftext($image, $size, $angle, $x, $y, $color, $fontfile, $text);
+}
+if($pixel)
+{
+for($i=0;$i<50;$i++)
+{
+	/*本函数可在图片上绘出一点。参数 x、y 为欲绘点的坐标，参数 col 表示该点的颜色*/
+	imagesetpixel($image, mt_rand(0,$width-1), mt_rand(0,$height-1), $black);
+}}
+if($line)
+{
+	for($i=0;$i<10;$i++)
+	{
+	$color=imagecolorallocate($image,mt_rand(50,90),mt_rand(50,200),mt_rand(50,90));
+	/*画线段*/
+	imageline($image, mt_rand(0,$width-1), mt_rand(0,$height-1), mt_rand(0,$width-1), mt_rand(0,$height-1), $color);
+}
+}
+/*以gif形式输出*/
+header("content-type:image/gif");
+/*建立GIF图 并输出到网页*/
+imagegif($image);
+/*释放与 image 关联的内存*/
+imagedestroy($image);
+}
